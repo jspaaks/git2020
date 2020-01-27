@@ -1,1 +1,3 @@
-passwords.txt
+passwords.*
+data/
+*.exe
